@@ -1,2 +1,1 @@
-# calendario-intuitivo
-un calendario para personas q se distraen fácil (tiene YouTube incluido y alarmas)
+un calendario mas intuitivo q el de google y que futuramente sera una app movil
